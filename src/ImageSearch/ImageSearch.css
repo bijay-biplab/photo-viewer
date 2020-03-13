@@ -1,0 +1,32 @@
+.imageSearch{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 3rem;
+    position: relative;
+}
+.imageSearch__from input {
+    margin:0 auto;
+    background-color: transparent;
+    border: transparent;
+    border-bottom: solid 3px #34495e;
+    padding-bottom: 8px;
+    width: 25%;
+    font-weight: 200;
+    letter-spacing: 2px;
+    font-size: 16px;
+    color: wheat;
+    margin-right: 10px;
+}
+.imageSearch__from{
+    margin: 0 auto;
+    background-color: transparent;
+    border: transparent;
+    border-bottom: solid 2px #344;
+    padding-bottom: 8px;
+    width: 25%;
+    font-weight: 200;
+    letter-spacing: 2px;
+    font-size: 16px;
+    color: wheat;
+    margin-right: 10px;
+}
